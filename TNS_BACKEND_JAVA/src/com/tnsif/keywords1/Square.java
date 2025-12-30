@@ -1,7 +1,7 @@
 package com.tnsif.keywords1;
 
 public  class Square extends Shape {
-	protected int side;
+	private int side;
 	Square (int side){
 		this.side=side;
 	}

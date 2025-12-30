@@ -1,8 +1,8 @@
 package com.tnsif.keywords1;
 
 	public class Rectangle extends Shape {
-		int l;
-	    int b;
+		private int l;
+	   private  int b;
 		Rectangle (int l,int b) {
 			this.l=l;
 			this.b=b;
